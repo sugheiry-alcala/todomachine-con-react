@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/sugheiry-Alcala/Todo-Machine-con-React#todo-machine-con-react",
   "name": "cursoreact",
   "version": "0.1.0",
   "private": true,
@@ -41,5 +40,6 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  }
+  }, 
+  "homepage": "https://github.com/sugheiry-alcala/todo-machine-con-react/settings/pages"
 }
