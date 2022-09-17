@@ -1,6 +1,8 @@
 import React from 'react';
 import { useLocalStorage } from './useLocalStorage';
 
+// const TodoContext = React.createContext();
+
 function useTodos() {
   const {
     item: todos,
@@ -26,7 +28,6 @@ function useTodos() {
       return todoText.includes(searchText);
     });
   }
-
   const addTodo = (text) => {
     const newTodos = [...todos];
     newTodos.push({
@@ -35,7 +36,6 @@ function useTodos() {
     });
     saveTodos(newTodos);
   };
-
   const completeTodo = (text) => {
     const todoIndex = todos.findIndex(todo => todo.text === text);
     const newTodos = [...todos];
@@ -49,28 +49,22 @@ function useTodos() {
     newTodos.splice(todoIndex, 1);
     saveTodos(newTodos);
   };
-  
-  const state = {
-    loading,
-    error,
-    totalTodos,
-    completedTodos,
-    searchValue,
-    searchedTodos,
-    openModal,
-  };
-  
-  const stateUpdaters = {
-    setSearchValue,
-    addTodo,
-    completeTodo,
-    deleteTodo,
-    setOpenModal,
-    sincronizeTodos,
-  };
 
-  return { state, stateUpdaters };
+  return {
+    loading,
+      error,
+      totalTodos,
+      completedTodos,
+      searchValue,
+      setSearchValue,
+      searchedTodos,
+      completeTodo,
+      deleteTodo,
+      openModal,
+      setOpenModal,
+      addTodo,
+      sincronizeTodos,
+  };
 }
 
 export { useTodos };
-
