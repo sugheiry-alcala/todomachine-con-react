@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sugheiry-alcala/todo-machine-con-react/settings/pages/static/css/main.c5774b24.css",
+    "main.js": "/sugheiry-alcala/todo-machine-con-react/settings/pages/static/js/main.f3205d80.js",
+    "index.html": "/sugheiry-alcala/todo-machine-con-react/settings/pages/index.html",
+    "static/media/delete.svg": "/sugheiry-alcala/todo-machine-con-react/settings/pages/static/media/delete.1658c7616de2f9aee4dcc9eb0e69b803.svg",
+    "static/media/check.svg": "/sugheiry-alcala/todo-machine-con-react/settings/pages/static/media/check.0d628019e2a45503c2df9cd2b014793d.svg",
+    "main.c5774b24.css.map": "/sugheiry-alcala/todo-machine-con-react/settings/pages/static/css/main.c5774b24.css.map",
+    "main.f3205d80.js.map": "/sugheiry-alcala/todo-machine-con-react/settings/pages/static/js/main.f3205d80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5774b24.css",
+    "static/js/main.f3205d80.js"
+  ]
+}
