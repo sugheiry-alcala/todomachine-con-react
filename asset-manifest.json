@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sugheiry-alcala/todomachine-con-react/static/css/main.c5774b24.css",
-    "main.js": "/sugheiry-alcala/todomachine-con-react/static/js/main.cc2017f7.js",
-    "index.html": "/sugheiry-alcala/todomachine-con-react/index.html",
-    "static/media/delete.svg": "/sugheiry-alcala/todomachine-con-react/static/media/delete.1658c7616de2f9aee4dcc9eb0e69b803.svg",
-    "static/media/check.svg": "/sugheiry-alcala/todomachine-con-react/static/media/check.0d628019e2a45503c2df9cd2b014793d.svg",
-    "main.c5774b24.css.map": "/sugheiry-alcala/todomachine-con-react/static/css/main.c5774b24.css.map",
-    "main.cc2017f7.js.map": "/sugheiry-alcala/todomachine-con-react/static/js/main.cc2017f7.js.map"
+    "main.css": "/todomachine-con-react/static/css/main.c5774b24.css",
+    "main.js": "/todomachine-con-react/static/js/main.8a93607c.js",
+    "index.html": "/todomachine-con-react/index.html",
+    "static/media/delete.svg": "/todomachine-con-react/static/media/delete.1658c7616de2f9aee4dcc9eb0e69b803.svg",
+    "static/media/check.svg": "/todomachine-con-react/static/media/check.0d628019e2a45503c2df9cd2b014793d.svg",
+    "main.c5774b24.css.map": "/todomachine-con-react/static/css/main.c5774b24.css.map",
+    "main.8a93607c.js.map": "/todomachine-con-react/static/js/main.8a93607c.js.map"
   },
   "entrypoints": [
     "static/css/main.c5774b24.css",
-    "static/js/main.cc2017f7.js"
+    "static/js/main.8a93607c.js"
   ]
 }
