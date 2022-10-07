@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/todomachine-con-react/static/css/main.c5774b24.css",
-    "main.js": "/todomachine-con-react/static/js/main.8a93607c.js",
+    "main.css": "/todomachine-con-react/static/css/main.643441a9.css",
+    "main.js": "/todomachine-con-react/static/js/main.8d7cd432.js",
     "index.html": "/todomachine-con-react/index.html",
     "static/media/delete.svg": "/todomachine-con-react/static/media/delete.1658c7616de2f9aee4dcc9eb0e69b803.svg",
+    "static/media/edit.svg": "/todomachine-con-react/static/media/edit.6799ab3ce142a4671319e96009e71bea.svg",
     "static/media/check.svg": "/todomachine-con-react/static/media/check.0d628019e2a45503c2df9cd2b014793d.svg",
-    "main.c5774b24.css.map": "/todomachine-con-react/static/css/main.c5774b24.css.map",
-    "main.8a93607c.js.map": "/todomachine-con-react/static/js/main.8a93607c.js.map"
+    "main.643441a9.css.map": "/todomachine-con-react/static/css/main.643441a9.css.map",
+    "main.8d7cd432.js.map": "/todomachine-con-react/static/js/main.8d7cd432.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5774b24.css",
-    "static/js/main.8a93607c.js"
+    "static/css/main.643441a9.css",
+    "static/js/main.8d7cd432.js"
   ]
 }
